@@ -1,8 +1,10 @@
 # Bangazon Data Model
+Exercise, Nashville Software School
+
 
 ## Overview
 
-You need to build the ERD and initial data model for the Bangazon, LLC organization. This will be the base database schema that you will be using for many of the applications that will be built for the company.
+Build the ERD and initial data model for the Bangazon, LLC organization. This will be the base database schema that you will be using for many of the applications that will be built for the company.
 
 ## Concepts
 
